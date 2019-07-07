@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: the middle
-date: 2019-07-07T11:40:02.746Z
+date: 2019-07-06T11:30:02.746Z
 description: day two .... blah blah blah
 featuredpost: true
 featuredimage: /img/apple-touch-icon.png
